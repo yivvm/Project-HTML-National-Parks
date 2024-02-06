@@ -2,9 +2,9 @@
 SBA 307 - HTML and CSS
 
 ## I created <str>Four</str> webpages:
-1. resume.html, with resume.css
+1. resume.html and resume.css
 2. myphotos.html
-3. np-info.html, with np-info.css
+3. np-info.html and np-info.css
 4. yellowstone.html
 
 Here are the locations for the HTML and CSS requirements as instructed.
@@ -18,29 +18,35 @@ Here are the locations for the HTML and CSS requirements as instructed.
 │    └── <th>, <form>, <label>, <select>, <input>,
 │    └── <h3>, <span>, <sup>, <h2>, <ol>, 
 │    └── <html>, <body>, <head>
-├── Include at least one table: 
+├── Include at least one table.
 │    └── 1 table in np-info.html
-├── Include at least two forms:
+├── Include at least two forms.
 │    └── 2 forms in np-info.html: 
 │        └── 1 contact form
 │        └── 1 subscription form
-├── Include at least one dropdown menu:
+├── Include at least one dropdown menu.
 │    └── 2 dropdown menus: 
 │        └── 1 dropdown menu in the navbar of every page
 │        └── 1 dropdown menu in the contact form in np-info.html
-├──Include at least one of each of the following forms of content: 
+├── Include at least one of each of the following forms of content.
      ├── Text
      ├── Images
      └── GIFs
-         └── in 
+         └── 1 GIF in 
 ```
 
 ## CSS Requirements
+```s
 ├── Make use of inline, internal, and external styling:
-
-●	Use five different CSS selectors.
-●	Use colors that complement each other.
-○	Coolors is one of many resources that can help you find a color palette.
-●	Use Flexbox and/or the Bootstrap Grid.
-●	Use at least two CSS animations.
-
+│    └── Inline: yellowstone.html
+│    └── Internal: myphotos.html
+│    └── External: 
+│         └── resume.html & resume.css
+│         └── np-info.html & np-info.css 
+├── Use five different CSS selectors.
+├── Use colors that complement each other.
+     ├──Coolors is one of many resources that can help you find a color palette.
+├── Use Flexbox and/or the Bootstrap Grid.
+└── Use at least two CSS animations.
+     └── myphotos.html
+```
