@@ -32,7 +32,7 @@ Here are the list of accomplishments for the HTML and CSS requirements as instru
      ├── Text
      ├── Images
      └── GIFs
-         └── 1 GIF in 
+         └── 1 GIF in np-info.html
 ```
 
 ## CSS Requirements
@@ -49,4 +49,5 @@ Here are the list of accomplishments for the HTML and CSS requirements as instru
 ├── Use Flexbox and/or the Bootstrap Grid.
 └── Use at least two CSS animations.
      └── myphotos.html
+     └── np-info.html
 ```

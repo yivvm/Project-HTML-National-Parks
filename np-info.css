@@ -161,6 +161,7 @@ table {
 
 .content:hover {
     border: 1px solid #6c757d;
+    font-size: 20px;
 }
 
 img {
@@ -168,6 +169,16 @@ img {
     /* height: auto; */
 }
 
+#smoky {
+    transition-property: width, height;
+    transition-duration: 2s;
+}
+
+#smoky:hover {
+    width: 500px;
+    height: 500px;
+ }
+ 
 
 
 
