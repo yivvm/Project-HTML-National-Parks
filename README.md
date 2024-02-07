@@ -51,3 +51,6 @@ Here are the list of accomplishments for the HTML and CSS requirements as instru
      └── myphotos.html: border
      └── np-info.html: border, font-size, transform/photo scaling
 ```
+
+## Screenshots
+![screenshot-gallery](./images/screenshot-gallery.png)
