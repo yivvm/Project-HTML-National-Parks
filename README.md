@@ -55,4 +55,4 @@ Here are the list of accomplishments for the HTML and CSS requirements as instru
 ## Screenshots
 ![screenshot-gallery](./images/screenshot-gallery.png)
 
-![screenshot-np-info](./images/screenshot-info.png)
+![screenshot-np-info](./images/screenshot-National-Park-Information.png)
