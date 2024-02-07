@@ -135,7 +135,7 @@ table {
 
 /* add padding between each column */
 .row,
-.row > .column3 {
+.row .column3 {
     padding: 8px;
 }
 
@@ -169,6 +169,12 @@ img {
     /* height: auto; */
 }
 
+#grandcanyon {
+    position: relative;
+    width: 100%;
+    padding-bottom: 18%;
+}
+
 #smoky {
     transition-property: width, height;
     transition-duration: 2s;
@@ -179,7 +185,11 @@ img {
     height: 500px;
  }
  
-
+#zion {
+    position: relative;
+    width: 100%;
+    padding-bottom: 8%;
+}
 
 
 
