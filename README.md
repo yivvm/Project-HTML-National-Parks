@@ -48,6 +48,6 @@ Here are the list of accomplishments for the HTML and CSS requirements as instru
 │    └── Coolors is one of many resources that can help you find a color palette.
 ├── Use Flexbox and/or the Bootstrap Grid.
 └── Use at least two CSS animations.
-     └── myphotos.html
-     └── np-info.html
+     └── myphotos.html: border
+     └── np-info.html: border, font-size, transform/photo scaling
 ```
