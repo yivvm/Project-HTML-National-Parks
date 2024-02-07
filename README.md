@@ -1,13 +1,13 @@
 # Project-HTML-CSS-National-Parks-Gallery-AND-My-Resume
 SBA 307 - HTML and CSS
 
-## I created <str>Four</str> webpages:
+## I created <str>four</str> webpages:
 1. resume.html and resume.css
 2. myphotos.html
 3. np-info.html and np-info.css
 4. yellowstone.html
 
-Here are the locations for the HTML and CSS requirements as instructed.
+Here are the list of accomplishments for the HTML and CSS requirements as instructed.
 ## HTML Requirements
 ```s
 ├── Have at least three pages.
@@ -26,9 +26,9 @@ Here are the locations for the HTML and CSS requirements as instructed.
 │        └── 1 subscription form
 ├── Include at least one dropdown menu.
 │    └── 2 dropdown menus: 
-│        └── 1 dropdown menu in the navbar of every page
+│        └── 1 dropdown menu in the navbar of resume.html and np-info.html
 │        └── 1 dropdown menu in the contact form in np-info.html
-├── Include at least one of each of the following forms of content.
+└──  Include at least one of each of the following forms of content.
      ├── Text
      ├── Images
      └── GIFs
@@ -45,7 +45,7 @@ Here are the locations for the HTML and CSS requirements as instructed.
 │         └── np-info.html & np-info.css 
 ├── Use five different CSS selectors.
 ├── Use colors that complement each other.
-     ├──Coolors is one of many resources that can help you find a color palette.
+│    └── Coolors is one of many resources that can help you find a color palette.
 ├── Use Flexbox and/or the Bootstrap Grid.
 └── Use at least two CSS animations.
      └── myphotos.html
